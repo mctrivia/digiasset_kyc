@@ -5,6 +5,7 @@
          "country": "Canada"
       },
       "name": "DigiByte.Rocks Mining Assets",
-      "description": "This asset entitles you to an equal share in DigiByte.Rocks Mining Payouts. Whatever address holds this asset at midnight UTC gets the days payout awarded to them. See https://mining.digibyte.rocks for details."
+      "description": "This asset entitles you to an equal share in DigiByte.Rocks Mining Payouts. Whatever address holds this asset at midnight UTC gets the days payout awarded to them. See https://mining.digibyte.rocks for details.",
+      "url": "https://mining.digibyte.rocks"
    }
 }
